@@ -1,0 +1,15 @@
+[07-Apr-2022 19:02:37 America/New_York] PHP Warning:  Undefined variable $user in /home/boomjvpf/public_html/sparkle/resources/views/user/dashboard/index.blade.php on line 397
+[07-Apr-2022 19:02:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTransactionsExceptPayout() on null in /home/boomjvpf/public_html/sparkle/resources/views/user/dashboard/index.blade.php:397
+Stack trace:
+#0 {main}
+  thrown in /home/boomjvpf/public_html/sparkle/resources/views/user/dashboard/index.blade.php on line 397
+[07-Apr-2022 19:13:04 America/New_York] PHP Warning:  Undefined variable $user in /home/boomjvpf/public_html/sparkle/resources/views/user/dashboard/index.blade.php on line 397
+[07-Apr-2022 19:13:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTransactionsExceptPayout() on null in /home/boomjvpf/public_html/sparkle/resources/views/user/dashboard/index.blade.php:397
+Stack trace:
+#0 {main}
+  thrown in /home/boomjvpf/public_html/sparkle/resources/views/user/dashboard/index.blade.php on line 397
+[22-Jun-2022 12:01:13 America/New_York] PHP Warning:  Undefined variable $user in /home/boomjvpf/boomchart.io/sparkle/resources/views/user/dashboard/index.blade.php on line 443
+[22-Jun-2022 12:01:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTransactionsExceptPayout() on null in /home/boomjvpf/boomchart.io/sparkle/resources/views/user/dashboard/index.blade.php:443
+Stack trace:
+#0 {main}
+  thrown in /home/boomjvpf/boomchart.io/sparkle/resources/views/user/dashboard/index.blade.php on line 443
